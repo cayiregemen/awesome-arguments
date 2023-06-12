@@ -6,7 +6,7 @@ It is a waste of time discussing the same things over and over again on the inte
 This repository contains a curated list of arguments and counter-arguments on controversial topics that often provoke heated discussions on the internet. The goal is to provide well-reasoned and evidence-based perspectives on these complex issues to elevate the level of debate.
 ## Categories
 - [Society](society.md) 
-- [Technology](technology.md)
+- [Technology](categories/technology.md)
 - [Science](science.md)
 - [Religion](religion.md)
 - [Art](art.md)
