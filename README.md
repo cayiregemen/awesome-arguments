@@ -13,6 +13,7 @@ This repository contains a curated list of arguments and counter-arguments on co
 - [Economics](economics.md)
 - [Philosophy](philosophy.md)
 - [Ethics](ethics.md)
+
 Open an issue or pull request to suggest new topics to cover. The goal is to build this into a comprehensive resource for productive discussion and debate.
 For each topic, the repository provides an overview of key arguments and counter-arguments, facts and evidence to support both sides, and an analysis of the nuances and complexities in the issue. The ultimate goal is to show that many controversial topics are not black-and-white and there are merits to multiple perspectives. But some opinions are also not supported by facts, so those are clarified as needed.
 Let's elevate the level of online debate together! Contributions welcome.
