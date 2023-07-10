@@ -1,4 +1,5 @@
 # awesome-arguments
+# I don't have a lot of time right now, but I'll start working on the repository in a few weeks. 
 ## Warning: Do not add articles about the politics of countries. A repository dedicated to politics will be created in the future.
 ### You can also create forks of this repository in different languages. For example, a fork called awesome-arguments-de can translate this repository into German. But please don't let more than one person create repositories with the same name.
 Inspired by [Manjarno](https://github.com/arindas/manjarno). 
